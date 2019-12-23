@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/e/CodingInterviewChinese2-master/CodingInterviewChinese2-master/56_01_NumbersAppearOnce/BinaryTree.cpp
+cstdio
+-
+BinaryTree.h
+/cygdrive/e/CodingInterviewChinese2-master/CodingInterviewChinese2-master/56_01_NumbersAppearOnce/BinaryTree.h
+
+/cygdrive/e/CodingInterviewChinese2-master/CodingInterviewChinese2-master/56_01_NumbersAppearOnce/BinaryTree.h
+
+/cygdrive/e/CodingInterviewChinese2-master/CodingInterviewChinese2-master/56_01_NumbersAppearOnce/NumbersAppearOnce.cpp
+cstdio
+-
+

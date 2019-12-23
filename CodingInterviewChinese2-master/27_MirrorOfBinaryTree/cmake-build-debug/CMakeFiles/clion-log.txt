@@ -1,0 +1,4 @@
+C:\Users\PC\.CLion2019.2\system\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=G:/AboutCareer/cygwin/bin/make.exe -DCMAKE_C_COMPILER=G:/AboutCareer/cygwin/bin/gcc.exe -DCMAKE_CXX_COMPILER=G:/AboutCareer/cygwin/bin/c++.exe -G "CodeBlocks - Unix Makefiles" /cygdrive/e/CodingInterviewChinese2-master/CodingInterviewChinese2-master/27_MirrorOfBinaryTree
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /cygdrive/e/CodingInterviewChinese2-master/CodingInterviewChinese2-master/27_MirrorOfBinaryTree/cmake-build-debug

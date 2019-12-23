@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/e/CodingInterviewChinese2-master/CodingInterviewChinese2-master/63_MaximalProfit/MaximalProfit.cpp
+cstdio
+-
+
